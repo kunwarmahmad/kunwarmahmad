@@ -3,7 +3,8 @@
 
 **kunwarmahmad/kunwarmahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills
+Typescript Javascript HTML5 React Angular Vue JQuery CSS3 Sass TailwindCSS Bootstrap Material UI Redux Webpack Babel NodeJS Express MongoDB Firebase Lavarel Photoshop Illustrator XD Figma Sketch
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
