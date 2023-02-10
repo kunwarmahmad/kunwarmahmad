@@ -1,7 +1,10 @@
 <h2> Hi there 👋 My Name is Kunwar Ahmad </h2>
 <h3> Professional React Native Developer | Software Engineer </h3>
+<p>- Passionate in Creating Modern UI Mobile Applications.</p>
+<p>- Loves to Convert Unique Ideas into Mobile Apps.</p>
 
-<h4>Skills</h4>
+
+<h3>Skills</h3>
 
 <p align="left" dir="auto">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" width="36" height="36" alt="React Native" style="max-width: 100%;"></a>
@@ -22,3 +25,13 @@
 <a href="https://www.sketch.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" style="max-width: 100%;"></a>
 </p>
 
+
+
+<h3>Socials</h3>
+
+<p align="left" dir="auto">
+<a href="https://github.com/kunwarmahmad"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" style="max-width: 100%;"></a> 
+<a href="https://www.instagram.com/kunwar_m_ahmad/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="max-width: 100%;"></a> 
+<a href="https://www.linkedin.com/in/kunwar-m-ahmad/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a> 
+<a href="https://twitter.com/kunwar_m_ahmad" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="max-width: 100%;"></a> 
+<a href="https://www.youtube.com/channel/UCo3hkIMSXsWrXl4sxPWi3nA" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" style="max-width: 100%;"></a></p>
