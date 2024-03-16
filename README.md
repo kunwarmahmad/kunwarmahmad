@@ -1,7 +1,8 @@
 <h2> Hi there 👋 My Name is Kunwar Ahmad </h2>
-<h3> Professional React Native Developer | Software Engineer </h3>
-<p>- Passionate in Creating Modern UI Mobile Applications.</p>
-<p>- Loves to Convert Unique Ideas into Mobile Apps.</p>
+<h3> Professional Software Engineer </h3>
+<p>- Passionate in Creating Modern UI Mobile/Web Applications.</p>
+<p>- Passionate in Creating Modern UI Mobile Game Applications.</p>
+<p>- Loves to Convert Unique Ideas into Mobile Apps and Games.</p>
 
 
 
