@@ -6,7 +6,7 @@
 
 
 
-Highly skilled React Native developer with 2 years of experience in developing and delivering mobile applications for iOS and Android platforms. Proficient in JavaScript, React.js, Redux, and other relevant technologies. A problem solver with a passion for delivering high-quality, user-friendly mobile apps. Working as a React Native Developer for the past 2 years. Created multiple freelance projects. 
+Highly skilled Siftware developer with 5+ years of experience in developing and delivering mobile applications for iOS and Android platforms. Proficient in JavaScript, React.js, Redux, and other relevant technologies. A problem solver with a passion for delivering high-quality, user-friendly mobile apps. Working as a React Native Developer for the past 2 years. Created multiple freelance projects. 
 
 
 <h3>Skills</h3>
